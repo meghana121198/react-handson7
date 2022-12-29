@@ -1,38 +1,38 @@
 const Student=[
     {
         id: 0,
-        name : "neeraja",
+        name : "Meghana",
         age : "23",
-        course : "MERN" ,
-        batch : "december"
+        course : "EA" ,
+        batch : "january"
     },
     {
         id: 1,
-        name : "Sanjay",
-        age : "23",
-        course : "MEAN" ,
-        batch : "March"
+        name : "sanjana",
+        age : "20",
+        course : "EA" ,
+        batch : "May"
     },
     {
         id: 2,
-        name : "Rahul",
+        name : "pushpa",
         age : "23",
-        course : "MEVN" ,
+        course : "EA" ,
         batch : "January"
     },
     {
         id: 3,
-        name : "Alkesh",
+        name : "vasu",
         age : "24",
-        course : "MERN" ,
-        batch : "March"
+        course : "EA" ,
+        batch : "May"
     },
     {
         id: 4,
-        name : "Namitha",
+        name : "Akshay",
         age : "23",
-        course : "MEAN" ,
-        batch : "September"
+        course : "EA" ,
+        batch : "May"
     }
 ]
 export default Student;
